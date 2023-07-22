@@ -1,0 +1,14 @@
+{
+  "name": "cypressframework1.0",
+  "version": "1.0.0",
+  "description": "cypressnewframework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayo",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.0.1"
+  }
+}
